@@ -1,29 +1,29 @@
 {
-  "name": "nodesamplesre",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.1"
-  },
-  "description": "Example to Show CI CD Pipeline using Azure DevOps\r Example of using Node.JS application using VS Code",
-  "main": "app.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Training-and-Development-SRE/NodeSampleSRE.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Training-and-Development-SRE/NodeSampleSRE/issues"
-  },
-  "homepage": "https://github.com/Training-and-Development-SRE/NodeSampleSRE#readme"
+    "name": "nodesamplesre",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "jade": "~1.11.0",
+        "morgan": "~1.9.1"
+    },
+    "description": "Example to Show CI CD Pipeline using Azure DevOps\r Example of using Node.JS application using VS Code",
+    "main": "app.js",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Training-and-Development-SRE/NodeSampleSRE.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Training-and-Development-SRE/NodeSampleSRE/issues"
+    },
+    "homepage": "https://github.com/Training-and-Development-SRE/NodeSampleSRE#readme"
 }
